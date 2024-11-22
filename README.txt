@@ -37,17 +37,3 @@ Momentum accelerates SGD by adding a fraction of the previous update to the curr
 ### 4. Nesterov Accelerated Gradient (NAG)
 NAG is a variation of momentum where the gradient is calculated after the momentum step, leading to faster convergence.
 
-## Running the Code
-
-### Prerequisites
-
-- **C++ Compiler**: Make sure you have a C++ compiler installed (e.g., GCC, Clang).
-  
-### Compilation
-
-1. Clone the repository or download the source code.
-2. Navigate to the project directory.
-3. Run the following commands to compile the project:
-
-```bash
-g++ -o optimization main.cpp -std=c++11
