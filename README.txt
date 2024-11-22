@@ -42,7 +42,6 @@ NAG is a variation of momentum where the gradient is calculated after the moment
 ### Prerequisites
 
 - **C++ Compiler**: Make sure you have a C++ compiler installed (e.g., GCC, Clang).
-- **GNUplot**: Required for plotting the convergence of the optimization methods.
   
 ### Compilation
 
