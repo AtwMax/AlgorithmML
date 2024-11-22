@@ -5,10 +5,6 @@ This project implements several optimization techniques commonly used in machine
 ## Table of Contents
 - [Overview](#overview)
 - [Optimization Methods](#optimization-methods)
-- [Running the Code](#running-the-code)
-- [Plotting Results](#plotting-results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
